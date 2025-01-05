@@ -15,7 +15,7 @@ Tracks critical metrics,
 * including Total Sales ($1.7M),
 * Average Order Value ($165.4), Total Discount ($69.5),
 * Return Percentage (50.54%).
-* 
+  
 #### Visualizations:
 * Decomposition Tree: Analyzes sales across dimensions like online and in-store purchases, events, gender, and category.
 * Line Chart: Depicts sales trends by year and event.
