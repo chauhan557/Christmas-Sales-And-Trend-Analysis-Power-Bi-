@@ -42,3 +42,5 @@ Tracks critical metrics,
 * Rainy weather significantly influenced higher spending.
 * British Columbia was the leading sales region, while Newfoundland had the least sales.
 
+## Screen Shot / Demo
+The Dashboard looks like (https://github.com/chauhan557/Christmas-Sales-And-Trend-Analysis-Power-Bi-/blob/main/Christmas%20Sales%20Dashboard.png)
